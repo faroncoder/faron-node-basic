@@ -1,0 +1,23 @@
+{
+  "name": "faronApp",
+  "version": "0.0.1",
+  "description": "first app on node.js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "hbs": "*",
+    "bower": "~1.2.8",
+    "express": "~3.4.8",
+    "require": "~0.5.0",
+    "requirejs": "~2.1.11",
+    "simple-api": "~0.1.1",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "author": "Faron",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "github.com/faroncoder/faronFirstNode.git"
+  }
+}
